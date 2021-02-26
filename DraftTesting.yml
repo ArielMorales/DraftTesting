@@ -11,6 +11,7 @@ pr:
     - qa
     - dev
     - main
+  drafts: false
 
 pool:
   vmImage: ubuntu-latest
